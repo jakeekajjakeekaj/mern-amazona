@@ -68,3 +68,8 @@
     1 Create sign in form
     2 Add email and password
     3 Add signin button
+18. Connect to MongoDB Database
+    1 Create atlas mongodb databas <!-- Existen 2 maneras, haciéndolo mediante la web a través de atlas -->
+    2 install local mongodb database <!-- O instalándolo de manera local que es la manera que en este caso estará activa, sin embargo en cualquier momento se puede cambiar le variable MONGODB_URI ubicado en backend/.env para así trabajar a través de la web -->
+    3 npm install mongoose
+    4 connect to mongodb database
