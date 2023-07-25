@@ -1,4 +1,5 @@
 {
+  "proxy": "https://127.0.0.1:5000",
   "name": "backend",
   "type": "module",
   "version": "1.0.0",
