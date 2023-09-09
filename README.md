@@ -99,3 +99,6 @@
     1 Create input forms
     2 Handle submit
     3 Create backend api
+25. Implement select payment method screen
+    1 Create input forms
+    2 Handle submit
